@@ -1,0 +1,9 @@
+gencode_gene:
+  adapter:
+    module: bto_adapter
+    cls: BTOAdapter
+    args:
+      ontology_path: "./data/bto.owl"
+  nodes: true
+  edges: true
+  outdir: ./output
