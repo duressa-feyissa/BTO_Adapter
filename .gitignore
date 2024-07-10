@@ -1,2 +1,6 @@
 /biocypher-log/
 /biocypher-log/*
+/output/
+__pycache__/
+*.pyc
+/__pycache__/
